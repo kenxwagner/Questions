@@ -142,3 +142,28 @@ http://www.dofactory.com/net/design-patterns
 13) Create a layered CSS Tile of 360*480.
 
 
+Random Block:
+abstract vs interface in c#
+
+A class can implement any number of interfaces but a subclass can at most use only one abstract class.
+an abstract class can have non-abstract Methods while in case of interface all the methods has to be abstact.
+and abstract class can declare or use any variables while an interface is not allowed to do so.
+
+http://www.c-sharpcorner.com/uploadfile/prasoonk/abstract-class-vs-interface/
+
+inner join vs out join in C#
+
+node event loop
+
+
+angular vs jquery
+
+client side vs server side
+
+JSON vs REST vs XML
+PUT POST GET
+
+find four letter words
+
+https://medium.freecodecamp.com/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c#.xat0x8u4k
+
